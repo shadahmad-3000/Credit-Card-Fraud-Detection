@@ -1,0 +1,162 @@
+{
+  "fields": [
+    {
+      "name": "Time",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "V1",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V2",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V3",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V4",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V5",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V6",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V7",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V8",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V9",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V10",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V11",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V12",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V13",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V14",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V15",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V16",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V17",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V18",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V19",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V20",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V21",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V22",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V23",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V24",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V25",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V26",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V27",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "V28",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Amount",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Class",
+      "type": "integer",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
